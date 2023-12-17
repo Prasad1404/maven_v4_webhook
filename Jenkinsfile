@@ -7,7 +7,7 @@
 			{
 				steps
 				{
-					git 'https://github.com/Prasad1404/maven_v2.git'
+					git 'https://github.com/Prasad1404/maven_v4_webhook.git'
 				}
 
 			}
